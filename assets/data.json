@@ -2,18 +2,53 @@
   "quiz": [
     {
       "question": "Which of these is GOAT?",
-      "option": ["DK", "VK", "BK", "KP"],
-      "answer": "VK"
+      "option": ["R-9", "Cr7", "Neymar", "Messi"],
+      "answer": "Cr7"
     },
     {
-      "question": "Who is current PM of Nepal?",
-      "option": ["KP", "PKD", "SBD", "RCP"],
-      "answer": "KP"
+      "question": "Who is the current PM of Nepal?",
+      "option": ["KP Baa", "Parchanda", "Shere", "Ram Chandre"],
+      "answer": "KP Baa"
     },
     {
-      "question": "Who was the last PM of Nepal?",
-      "option": ["KP", "PKD", "SBD", "RCP"],
-      "answer": "PKD"
+      "question": "Who was the first PM of Nepal?",
+      "option": ["Junga Bdr Rana", "Chandra Sumsher", "Bhimsen Thapa", "Kp Baa"],
+      "answer": "Bhimsen Thapa"
+    },
+    {
+      "question": "What is the capital of France?",
+      "option": ["London", "Berlin", "Paris", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "option": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "option": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "option": ["O2", "H2O", "CO2", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "option": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "option": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "option": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+      "answer": "Hydrogen"
     }
   ]
 }
