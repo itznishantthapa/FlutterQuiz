@@ -1,0 +1,19 @@
+{
+  "quiz": [
+    {
+      "question": "Which of these is GOAT?",
+      "option": ["DK", "VK", "BK", "KP"],
+      "answer": "VK"
+    },
+    {
+      "question": "Who is current PM of Nepal?",
+      "option": ["KP", "PKD", "SBD", "RCP"],
+      "answer": "KP"
+    },
+    {
+      "question": "Who was the last PM of Nepal?",
+      "option": ["KP", "PKD", "SBD", "RCP"],
+      "answer": "PKD"
+    }
+  ]
+}
